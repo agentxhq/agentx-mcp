@@ -1,0 +1,10 @@
+{
+  "name": "agentx",
+  "version": "1.0.0",
+  "description": "Connect Gemini CLI to AgentX, a cloud console for a fleet of AI coding agents running on your own machines. Sign-in is OAuth in your browser.",
+  "mcpServers": {
+    "agentx": {
+      "httpUrl": "https://www.agentxhq.com/mcp"
+    }
+  }
+}
