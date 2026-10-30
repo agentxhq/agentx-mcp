@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.agentxhq/agentx",
+  "description": "Cloud console for a fleet of AI coding agents running on your own machines. OAuth.",
+  "title": "AgentX",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.agentxhq.com/",
+  "icons": [
+    {
+      "src": "https://www.agentxhq.com/assets/img/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.agentxhq.com/mcp"
+    }
+  ]
+}
