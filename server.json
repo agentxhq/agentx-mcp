@@ -3,7 +3,7 @@
   "name": "com.agentxhq/agentx",
   "description": "Cloud console for a fleet of AI coding agents running on your own machines. OAuth.",
   "title": "AgentX",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.agentxhq.com/",
   "icons": [
     {
@@ -19,5 +19,9 @@
       "type": "streamable-http",
       "url": "https://www.agentxhq.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/agentxhq/agentx-mcp",
+    "source": "github"
+  }
 }
